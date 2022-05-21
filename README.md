@@ -5,7 +5,7 @@
 </figure>
 
 
-Authors: Junyang Cai, Tianzhu Liu, Ding Zhang
+Authors: [Junyang Cai](https://github.com/caidog1129), [Tianzhu Liu](https://github.com/peterliu0104), [Ding Zhang](https://github.com/PeanutButter6488)
 
 Group ID: 2227115
 
